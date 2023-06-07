@@ -10,4 +10,4 @@ We will create 4 projects in this course. By the end of this course, you will ha
  - [ ] portfolio
  - [ ] survey
  - [ ] tic-tac-toe
- - [ ] 4th project
+ - [ ] React-Native App
