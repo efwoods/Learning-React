@@ -18,5 +18,5 @@ We will create 4 projects in this course. By the end of this course, you will ha
 ## Take aways
  - [ ] [Portfolio](https://github.com/efwoods/Learning-React-Portfolio)
  - [ ] [Survey](https://github.com/efwoods/Learning-React-Survey)
- - [ ] [Tic-Tac-Toe](https://github.com/efwoods/tic-tac-toe)
+ - [ ] [Tic-Tac-Toe](https://github.com/efwoods/Tic-Tac-Toe)
  - [ ] [React-Native App](https://github.com/efwoods/react-native-mobile-app)
