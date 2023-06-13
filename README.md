@@ -16,7 +16,7 @@ We will create 4 projects in this course. By the end of this course, you will ha
    - [Expo Go](https://expo.dev/client)
 
 ## Key Deliverables
- - [ ] [Portfolio](https://github.com/efwoods/Learning-React-Portfolio)
- - [ ] [Survey](https://github.com/efwoods/Learning-React-Survey)
- - [ ] [Tic-Tac-Toe](https://github.com/efwoods/Tic-Tac-Toe)
- - [ ] [React-Native App](https://github.com/efwoods/react-native-mobile-app)
+ - [ ] [Portfolio Website](https://github.com/efwoods/Learning-React-Portfolio)
+ - [ ] [Machine-Learning App](https://github.com/efwoods/Learning-React-with-Machine-Learning)
+ - [ ] [Tic-Tac-Toe Web-app](https://github.com/efwoods/Tic-Tac-Toe)
+ - [ ] [React-Native App](https://github.com/efwoods/Learning-React-Native-for-Mobile-Applications)

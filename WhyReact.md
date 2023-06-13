@@ -1,3 +1,0 @@
-# Why React?
-
-# History
